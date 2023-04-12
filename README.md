@@ -1,1 +1,1 @@
-I'm toughbluff I program in php and lua. I sometimes do c++.
+I'm toughbluff Im learning C++ but I know lua and some php
